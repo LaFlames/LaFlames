@@ -2,7 +2,7 @@
 
 
 # About Me
-- 🔴 I'm a frontend developer with experience in creating SPA using React, JS, TypeScript, Redux, Graph QL. You can see some of my recent pet projects here.
+🔴 I'm a frontend developer with experience in creating SPA using React, JS, TypeScript, Redux, Graph QL. You can see some of my recent pet projects here.
 
 
 # Tech Stack
