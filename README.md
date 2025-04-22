@@ -2,7 +2,7 @@
 
 
 # About Me
-🔴 I'm a frontend developer with experience in creating SPA using React, JS, TypeScript, Redux, Graph QL. You can see some of my recent pet projects here.
+🔴 I'm a frontend developer with experience in creating SPA using React, TypeScript, Redux, Graph QL.
 
 
 # Tech Stack
@@ -12,12 +12,6 @@
 <table align="center" border="0" cellpadding="0" cellspacing="0">
       <thead>
         <tr>
-          <td>
-            <img
-              src="https://github-readme-stats.vercel.app/api?username=LaFlames&show_icons=true&locale=en&theme=tokyonight"
-              alt="GitHub Stats"
-            />
-          </td>
           <td>
             <img
               src="https://streak-stats.demolab.com/?user=LaFlames&theme=tokyonight"
